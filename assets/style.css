@@ -1,17 +1,21 @@
 header{
     top: 0px;
     margin: 0px;
+    width: 100%;
     background-color: turquoise;
     height: 80px;
 }
 
 body{
-    background-image: url("")
+    background-color: black;
+    background-image: url(images/hypnotize.png);
 
 }
 
 ul{
-    float: right;
+    position: absolute;
+    top: 40px;
+    right:500px;
     list-style-type: none;
     margin: 0px;
     padding: 0px;
@@ -20,6 +24,15 @@ ul{
 li{
     display: inline;
     margin-right: 20px;
+}
+
+.footer{
+    position: fixed;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    width: 100%;
+    background-color: turquoise;
+    height: 80px;
 }
 
 #headerblock{
