@@ -1,13 +1,14 @@
 header{
+    position: fixed;
     top: 0px;
-    margin: 0px;
+    margin: 0px auto 0px auto;
     width: 100%;
     background-color: turquoise;
     height: 80px;
 }
 
 body{
-    background-color: black;
+    margin: auto;
     background-image: url(images/hypnotize.png);
 
 }
@@ -15,7 +16,7 @@ body{
 ul{
     position: absolute;
     top: 40px;
-    right:500px;
+    right:50px;
     list-style-type: none;
     margin: 0px;
     padding: 0px;
@@ -36,6 +37,7 @@ li{
 }
 
 #headerblock{
+    position: fixed;
     margin-left: 50px;
     padding: 20px;
     background-color: gray;
@@ -48,7 +50,7 @@ li{
 .wrapper{
     width: 960px;
     margin: 0 auto;
-    margin-top: 20px;
+    margin-top: 100px;
     background-color: gray;
     padding: 20px;
     
