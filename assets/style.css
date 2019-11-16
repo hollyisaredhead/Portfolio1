@@ -5,8 +5,7 @@ header{
     margin: 0px auto 0px auto;
     width: 100%;
     background-color: #ffffff;
-    border-style: solid 1px;
-    border-color: #cccccc;
+    border-bottom: solid 2px #cccccc;
     height: 80px;
 }
 
@@ -36,6 +35,7 @@ h1{
 p{
     color: #777777;
     padding:20px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 ul{
     position: absolute;
@@ -59,17 +59,17 @@ img{
     padding: 20px;
 }
 
-
 #headerblock{
     float: left;
     margin-left: 50px;
     margin-top: 0px;
-    width: 200px;
+    width: 250px;
     height: 40px;
     padding: 20px;
     text-align: center;
     color: white;
     background-color: #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
 }
 #text{
     height:200px;
@@ -115,7 +115,7 @@ input[type="submit"]{
     position: relative;
     margin-bottom: 0px;
     width: 100%;
-    margin-top:100px;
+    margin-top: 60px;
     border-top: 8px solid #4aaaa5;
     background-color: #666666;
     height: 50px;
@@ -126,7 +126,7 @@ input[type="submit"]{
     position: relative;
     margin-bottom: 0px;
     width: 100%;
-    margin-top:300px;
+    margin-top:110px;
     border-top: 8px solid #4aaaa5;
     background-color: #666666;
     height: 50px;
