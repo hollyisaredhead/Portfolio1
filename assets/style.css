@@ -71,6 +71,10 @@ img{
     color: white;
     background-color: #4aaaa5;
 }
+#text{
+    height:200px;
+    width: 955px;
+}
 input[type="submit"]{
     background: #4aaaa5;
     color: white;
@@ -112,6 +116,17 @@ input[type="submit"]{
     margin-bottom: 0px;
     width: 100%;
     margin-top:100px;
+    border-top: 8px solid #4aaaa5;
+    background-color: #666666;
+    height: 50px;
+}
+
+.footer1,
+.push{
+    position: relative;
+    margin-bottom: 0px;
+    width: 100%;
+    margin-top:300px;
     border-top: 8px solid #4aaaa5;
     background-color: #666666;
     height: 50px;
