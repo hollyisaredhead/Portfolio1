@@ -77,14 +77,71 @@ img{
 }
 
 #box1{
-    /* position: relative; */
     position: absolute;
     background-color: #4aaaa5;
-    color: black;
-    width: 288px;
-    height: 60px;
-    margin-top:20px;
-    margin-left: 0px;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    overflow: auto;
+    width: 238px;
+    height: 20px;
+    margin-top: 230px;
+    margin-left: 20px;
+    padding: 25px;
+}
+
+#box2{
+    position: absolute;
+    background-color: #4aaaa5;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    overflow: auto;
+    width: 238px;
+    height: 20px;
+    margin-top: 230px;
+    margin-left: 348px;
+    padding: 25px;
+}
+
+#box3{
+    position: absolute;
+    background-color: #4aaaa5;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    overflow: auto;
+    width: 238px;
+    height: 20px;
+    margin-top: 558px;
+    margin-left: 20px;
+    padding: 25px;
+}
+#box4{
+    position: absolute;
+    background-color: #4aaaa5;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    overflow: auto;
+    width: 238px;
+    height: 20px;
+    margin-top: 558px;
+    margin-left: 348px;
+    padding: 25px;
+}
+#box5{
+    position: absolute;
+    background-color: #4aaaa5;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    overflow: auto;
+    width: 238px;
+    height: 20px;
+    margin-top: 888px;
+    margin-left: 20px;
+    padding: 25px;
 }
 input[type="submit"]{
     background: #4aaaa5;
